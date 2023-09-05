@@ -1,0 +1,11 @@
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\Explore.exe
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\Explore.dll
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\Explore.deps.json
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\Explore.runtimeconfig.json
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\Explore.pdb
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vertex-Food\Explore\Explore\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
